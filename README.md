@@ -30,8 +30,8 @@ back-end/
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/Aser-S/To-Do-List.git
-cd To-Do-List/back-end
+git clone https://github.com/Aser-S/Task-Manager-API.git
+cd Task-Manager-API/back-end
 npm install
 # create a .env file with your MongoDB connection string
 node Server.js
